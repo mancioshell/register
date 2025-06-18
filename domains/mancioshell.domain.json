@@ -1,0 +1,18 @@
+{
+    "description": "Project Description",
+    "domain": "is-not-a.dev",
+    "subdomain": "mancioshell",
+
+    "owner": {
+        "repo": "https://github.com/mancioshell/register",
+        "email": "dott.alessandro.mancini@gmail.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "example.com"
+    },
+
+    "proxied": false
+}
